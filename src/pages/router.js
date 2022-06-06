@@ -30,6 +30,7 @@ import {
 
 // import useDrawer from '../hook/useDrawer'
 
+import NetWork from './NetWork'
 import Home from './Home'
 // import { useState } from 'react';
 // import Account from './Account'
@@ -44,6 +45,12 @@ export const Done = [
         exact: true,
         component: Home
     },
+    {
+        title: 'NetWork',
+        path: '/network',
+        exact: true,
+        component: NetWork
+    }
     // {
     //     title: 'Claim',
     //     path: '/claim',

@@ -48,7 +48,8 @@ const CHANG_TYPE ={
     "80001": "tPolygon",
     "200": "xDai",
     "97": "tBsc",
-    "223": "qng"
+    "223": "qng",
+    "1111": "bsc"
 }
 
 
