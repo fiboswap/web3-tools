@@ -13,7 +13,7 @@ import {checkoutNetWork} from '../../utils/tool'
 
 function checkBNBFork() {
     return checkoutNetWork({
-        chainId: 1111,
+        chainId: '0x457',
         chainName: "BNB Fork",
         name: 'BNB',
         symbol: "BNB",
