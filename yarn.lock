@@ -18616,10 +18616,10 @@ web3-providers-ws@1.7.1:
     web3-core-helpers "1.7.1"
     websocket "^1.0.32"
 
-web3-shell@1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npmmirror.com/web3-shell/-/web3-shell-1.0.6.tgz#481c94af022f9ac2f1313d4706f7219e4225eb9e"
-  integrity sha512-o/9ZzYs40YKeAlXbunC0wyY9fu78Ub/SKk9NZuMFQTdPPcIqG5JHiLoyuqk6ZaIXIvpqx7vvEOx9YE8OS9fTeA==
+web3-shell@1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/web3-shell/-/web3-shell-1.0.11.tgz#eab388878cf8b2396b8332f0fa3039f1617319bd"
+  integrity sha512-tG3fqmIE+RyWyq+48rlgG4fauNBBpx+vI8Qd1d/Z2hkpKRn3RUrbYCuD5lgeQK0zFN/UENBkt2k2eCAQmrMMBg==
   dependencies:
     bignumber.js "^9.0.2"
     web3 "^1.6.1"
